@@ -1,614 +1,76 @@
 [
-  {
-    "id": 1,
-    "header": "Cover page",
-    "type": "Cover page",
-    "status": "In Process",
-    "target": "18",
-    "limit": "5",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 2,
-    "header": "Table of contents",
-    "type": "Table of contents",
-    "status": "Done",
-    "target": "29",
-    "limit": "24",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 3,
-    "header": "Executive summary",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "10",
-    "limit": "13",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 4,
-    "header": "Technical approach",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "27",
-    "limit": "23",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 5,
-    "header": "Design",
-    "type": "Narrative",
-    "status": "In Process",
-    "target": "2",
-    "limit": "16",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 6,
-    "header": "Capabilities",
-    "type": "Narrative",
-    "status": "In Process",
-    "target": "20",
-    "limit": "8",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 7,
-    "header": "Integration with existing systems",
-    "type": "Narrative",
-    "status": "In Process",
-    "target": "19",
-    "limit": "21",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 8,
-    "header": "Innovation and Advantages",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "25",
-    "limit": "26",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 9,
-    "header": "Overview of EMR's Innovative Solutions",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "7",
-    "limit": "23",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 10,
-    "header": "Advanced Algorithms and Machine Learning",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "30",
-    "limit": "28",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 11,
-    "header": "Adaptive Communication Protocols",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "9",
-    "limit": "31",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 12,
-    "header": "Advantages Over Current Technologies",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "12",
-    "limit": "0",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 13,
-    "header": "Past Performance",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "22",
-    "limit": "33",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 14,
-    "header": "Customer Feedback and Satisfaction Levels",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "15",
-    "limit": "34",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 15,
-    "header": "Implementation Challenges and Solutions",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "3",
-    "limit": "35",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 16,
-    "header": "Security Measures and Data Protection Policies",
-    "type": "Narrative",
-    "status": "In Process",
-    "target": "6",
-    "limit": "36",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 17,
-    "header": "Scalability and Future Proofing",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "4",
-    "limit": "37",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 18,
-    "header": "Cost-Benefit Analysis",
-    "type": "Plain language",
-    "status": "Done",
-    "target": "14",
-    "limit": "38",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 19,
-    "header": "User Training and Onboarding Experience",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "17",
-    "limit": "39",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 20,
-    "header": "Future Development Roadmap",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "11",
-    "limit": "40",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 21,
-    "header": "System Architecture Overview",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "24",
-    "limit": "18",
-    "reviewer": "Maya Johnson"
-  },
-  {
-    "id": 22,
-    "header": "Risk Management Plan",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "15",
-    "limit": "22",
-    "reviewer": "Carlos Rodriguez"
-  },
-  {
-    "id": 23,
-    "header": "Compliance Documentation",
-    "type": "Legal",
-    "status": "In Process",
-    "target": "31",
-    "limit": "27",
-    "reviewer": "Sarah Chen"
-  },
-  {
-    "id": 24,
-    "header": "API Documentation",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "8",
-    "limit": "12",
-    "reviewer": "Raj Patel"
-  },
-  {
-    "id": 25,
-    "header": "User Interface Mockups",
-    "type": "Visual",
-    "status": "In Process",
-    "target": "19",
-    "limit": "25",
-    "reviewer": "Leila Ahmadi"
-  },
-  {
-    "id": 26,
-    "header": "Database Schema",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "22",
-    "limit": "20",
-    "reviewer": "Thomas Wilson"
-  },
-  {
-    "id": 27,
-    "header": "Testing Methodology",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "17",
-    "limit": "14",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 28,
-    "header": "Deployment Strategy",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "26",
-    "limit": "30",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 29,
-    "header": "Budget Breakdown",
-    "type": "Financial",
-    "status": "In Process",
-    "target": "13",
-    "limit": "16",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 30,
-    "header": "Market Analysis",
-    "type": "Research",
-    "status": "Done",
-    "target": "29",
-    "limit": "32",
-    "reviewer": "Sophia Martinez"
-  },
-  {
-    "id": 31,
-    "header": "Competitor Comparison",
-    "type": "Research",
-    "status": "In Process",
-    "target": "21",
-    "limit": "19",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 32,
-    "header": "Maintenance Plan",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "16",
-    "limit": "23",
-    "reviewer": "Alex Thompson"
-  },
-  {
-    "id": 33,
-    "header": "User Personas",
-    "type": "Research",
-    "status": "In Process",
-    "target": "27",
-    "limit": "24",
-    "reviewer": "Nina Patel"
-  },
-  {
-    "id": 34,
-    "header": "Accessibility Compliance",
-    "type": "Legal",
-    "status": "Done",
-    "target": "18",
-    "limit": "21",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 35,
-    "header": "Performance Metrics",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "23",
-    "limit": "26",
-    "reviewer": "David Kim"
-  },
-  {
-    "id": 36,
-    "header": "Disaster Recovery Plan",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "14",
-    "limit": "17",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 37,
-    "header": "Third-party Integrations",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "25",
-    "limit": "28",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 38,
-    "header": "User Feedback Summary",
-    "type": "Research",
-    "status": "Done",
-    "target": "20",
-    "limit": "15",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 39,
-    "header": "Localization Strategy",
-    "type": "Narrative",
-    "status": "In Process",
-    "target": "12",
-    "limit": "19",
-    "reviewer": "Maria Garcia"
-  },
-  {
-    "id": 40,
-    "header": "Mobile Compatibility",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "28",
-    "limit": "31",
-    "reviewer": "James Wilson"
-  },
-  {
-    "id": 41,
-    "header": "Data Migration Plan",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "19",
-    "limit": "22",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 42,
-    "header": "Quality Assurance Protocols",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "30",
-    "limit": "33",
-    "reviewer": "Priya Singh"
-  },
-  {
-    "id": 43,
-    "header": "Stakeholder Analysis",
-    "type": "Research",
-    "status": "In Process",
-    "target": "11",
-    "limit": "14",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 44,
-    "header": "Environmental Impact Assessment",
-    "type": "Research",
-    "status": "Done",
-    "target": "24",
-    "limit": "27",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 45,
-    "header": "Intellectual Property Rights",
-    "type": "Legal",
-    "status": "In Process",
-    "target": "17",
-    "limit": "20",
-    "reviewer": "Sarah Johnson"
-  },
-  {
-    "id": 46,
-    "header": "Customer Support Framework",
-    "type": "Narrative",
-    "status": "Done",
-    "target": "22",
-    "limit": "25",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 47,
-    "header": "Version Control Strategy",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "15",
-    "limit": "18",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 48,
-    "header": "Continuous Integration Pipeline",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "26",
-    "limit": "29",
-    "reviewer": "Michael Chen"
-  },
-  {
-    "id": 49,
-    "header": "Regulatory Compliance",
-    "type": "Legal",
-    "status": "In Process",
-    "target": "13",
-    "limit": "16",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 50,
-    "header": "User Authentication System",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "28",
-    "limit": "31",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 51,
-    "header": "Data Analytics Framework",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "21",
-    "limit": "24",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 52,
-    "header": "Cloud Infrastructure",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "16",
-    "limit": "19",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 53,
-    "header": "Network Security Measures",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "29",
-    "limit": "32",
-    "reviewer": "Lisa Wong"
-  },
-  {
-    "id": 54,
-    "header": "Project Timeline",
-    "type": "Planning",
-    "status": "Done",
-    "target": "14",
-    "limit": "17",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 55,
-    "header": "Resource Allocation",
-    "type": "Planning",
-    "status": "In Process",
-    "target": "27",
-    "limit": "30",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 56,
-    "header": "Team Structure and Roles",
-    "type": "Planning",
-    "status": "Done",
-    "target": "20",
-    "limit": "23",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 57,
-    "header": "Communication Protocols",
-    "type": "Planning",
-    "status": "In Process",
-    "target": "15",
-    "limit": "18",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 58,
-    "header": "Success Metrics",
-    "type": "Planning",
-    "status": "Done",
-    "target": "30",
-    "limit": "33",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 59,
-    "header": "Internationalization Support",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "23",
-    "limit": "26",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 60,
-    "header": "Backup and Recovery Procedures",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "18",
-    "limit": "21",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 61,
-    "header": "Monitoring and Alerting System",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "25",
-    "limit": "28",
-    "reviewer": "Daniel Park"
-  },
-  {
-    "id": 62,
-    "header": "Code Review Guidelines",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "12",
-    "limit": "15",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 63,
-    "header": "Documentation Standards",
-    "type": "Technical content",
-    "status": "In Process",
-    "target": "27",
-    "limit": "30",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 64,
-    "header": "Release Management Process",
-    "type": "Planning",
-    "status": "Done",
-    "target": "22",
-    "limit": "25",
-    "reviewer": "Assign reviewer"
-  },
-  {
-    "id": 65,
-    "header": "Feature Prioritization Matrix",
-    "type": "Planning",
-    "status": "In Process",
-    "target": "19",
-    "limit": "22",
-    "reviewer": "Emma Davis"
-  },
-  {
-    "id": 66,
-    "header": "Technical Debt Assessment",
-    "type": "Technical content",
-    "status": "Done",
-    "target": "24",
-    "limit": "27",
-    "reviewer": "Eddie Lake"
-  },
-  {
-    "id": 67,
-    "header": "Capacity Planning",
-    "type": "Planning",
-    "status": "In Process",
-    "target": "21",
-    "limit": "24",
-    "reviewer": "Jamik Tashpulatov"
-  },
-  {
-    "id": 68,
-    "header": "Service Level Agreements",
-    "type": "Legal",
-    "status": "Done",
-    "target": "26",
-    "limit": "29",
-    "reviewer": "Assign reviewer"
-  }
+  { "id": 1, "name": "Roland Juno-106", "category": "Synthesizer", "brand": "Roland", "status": "In Stock", "condition": "Used", "price": 899.99, "quantity": 3, "salesPerson": "Jean-Luc Moreau", "dateAdded": "2025-10-10" },
+  { "id": 2, "name": "Korg Minilogue XD", "category": "Synthesizer", "brand": "Korg", "status": "In Stock", "condition": "New", "price": 679.00, "quantity": 6, "salesPerson": "Anika Müller", "dateAdded": "2025-10-05" },
+  { "id": 3, "name": "Fender Rhodes Stage 73", "category": "Electric Piano", "brand": "Fender", "status": "Out of Stock", "condition": "Used", "price": 2999.99, "quantity": 0, "salesPerson": "Ivan Petrov", "dateAdded": "2025-09-21" },
+  { "id": 4, "name": "Moog Sub 37", "category": "Synthesizer", "brand": "Moog", "status": "In Stock", "condition": "Used", "price": 1399.00, "quantity": 2, "salesPerson": "Elena Volkova", "dateAdded": "2025-09-30" },
+  { "id": 5, "name": "Boss DD-8 Digital Delay", "category": "Guitar Pedal", "brand": "Boss", "status": "In Stock", "condition": "New", "price": 189.99, "quantity": 10, "salesPerson": "Haile Gebre", "dateAdded": "2025-10-01" },
+  { "id": 6, "name": "Electro-Harmonix Big Muff Pi", "category": "Guitar Pedal", "brand": "Electro-Harmonix", "status": "In Stock", "condition": "Used", "price": 79.99, "quantity": 4, "salesPerson": "Marie Dubois", "dateAdded": "2025-10-03" },
+  { "id": 7, "name": "Yamaha Montage 8", "category": "Keyboard Workstation", "brand": "Yamaha", "status": "In Stock", "condition": "New", "price": 3999.99, "quantity": 2, "salesPerson": "Klaus Becker", "dateAdded": "2025-09-28" },
+  { "id": 8, "name": "Arturia MicroFreak", "category": "Synthesizer", "brand": "Arturia", "status": "In Stock", "condition": "New", "price": 349.99, "quantity": 8, "salesPerson": "Jean-Pierre Laurent", "dateAdded": "2025-10-07" },
+  { "id": 9, "name": "Nord Stage 3", "category": "Keyboard", "brand": "Nord", "status": "Low Stock", "condition": "New", "price": 4799.00, "quantity": 1, "salesPerson": "Svetlana Ivanova", "dateAdded": "2025-09-25" },
+  { "id": 10, "name": "Strymon BigSky Reverb", "category": "Guitar Pedal", "brand": "Strymon", "status": "In Stock", "condition": "New", "price": 479.00, "quantity": 5, "salesPerson": "Olivier Martin", "dateAdded": "2025-10-09" },
+  { "id": 11, "name": "Roland TR-8S", "category": "Drum Machine", "brand": "Roland", "status": "In Stock", "condition": "New", "price": 699.99, "quantity": 4, "salesPerson": "Anastasia Romanov", "dateAdded": "2025-09-30" },
+  { "id": 12, "name": "Novation Bass Station II", "category": "Synthesizer", "brand": "Novation", "status": "In Stock", "condition": "New", "price": 499.00, "quantity": 7, "salesPerson": "Marie-Claire Petit", "dateAdded": "2025-10-04" },
+  { "id": 13, "name": "Akai MPK Mini MK3", "category": "MIDI Controller", "brand": "Akai", "status": "In Stock", "condition": "New", "price": 119.99, "quantity": 12, "salesPerson": "Dieter Schneider", "dateAdded": "2025-10-06" },
+  { "id": 14, "name": "Behringer DeepMind 12", "category": "Synthesizer", "brand": "Behringer", "status": "In Stock", "condition": "Used", "price": 599.99, "quantity": 3, "salesPerson": "Yuri Kozlov", "dateAdded": "2025-09-29" },
+  { "id": 15, "name": "Korg Volca FM", "category": "Synthesizer", "brand": "Korg", "status": "In Stock", "condition": "New", "price": 159.99, "quantity": 15, "salesPerson": "Fabrice Durand", "dateAdded": "2025-10-02" },
+  { "id": 16, "name": "Nord Lead A1", "category": "Synthesizer", "brand": "Nord", "status": "Low Stock", "condition": "New", "price": 1899.00, "quantity": 2, "salesPerson": "Lea Muller", "dateAdded": "2025-09-27" },
+  { "id": 17, "name": "Moog Grandmother", "category": "Synthesizer", "brand": "Moog", "status": "In Stock", "condition": "New", "price": 749.00, "quantity": 6, "salesPerson": "Tobias Weber", "dateAdded": "2025-10-05" },
+  { "id": 18, "name": "Boss RC-505 Loop Station", "category": "Guitar Pedal", "brand": "Boss", "status": "In Stock", "condition": "Used", "price": 299.00, "quantity": 3, "salesPerson": "Hanna Schmidt", "dateAdded": "2025-09-28" },
+  { "id": 19, "name": "Arturia KeyLab 88", "category": "MIDI Controller", "brand": "Arturia", "status": "In Stock", "condition": "New", "price": 699.00, "quantity": 5, "salesPerson": "Nadia Petrova", "dateAdded": "2025-10-01" },
+  { "id": 20, "name": "Korg Kronos 88", "category": "Keyboard Workstation", "brand": "Korg", "status": "In Stock", "condition": "New", "price": 3499.99, "quantity": 2, "salesPerson": "Luc Morel", "dateAdded": "2025-09-26" },
+  { "id": 21, "name": "Yamaha Reface CP", "category": "Electric Piano", "brand": "Yamaha", "status": "In Stock", "condition": "New", "price": 449.99, "quantity": 8, "salesPerson": "Gustav Bauer", "dateAdded": "2025-10-03" },
+  { "id": 22, "name": "Fender Mustang LT25", "category": "Keyboard", "brand": "Fender", "status": "In Stock", "condition": "Used", "price": 399.99, "quantity": 3, "salesPerson": "Ekaterina Smirnova", "dateAdded": "2025-09-29" },
+  { "id": 23, "name": "Strymon Timeline", "category": "Guitar Pedal", "brand": "Strymon", "status": "In Stock", "condition": "New", "price": 449.00, "quantity": 6, "salesPerson": "Thierry Blanc", "dateAdded": "2025-10-07" },
+  { "id": 24, "name": "Roland System-8", "category": "Synthesizer", "brand": "Roland", "status": "Low Stock", "condition": "New", "price": 1199.99, "quantity": 2, "salesPerson": "Oleg Ivanov", "dateAdded": "2025-09-25" },
+  { "id": 25, "name": "Moog Matriarch", "category": "Synthesizer", "brand": "Moog", "status": "In Stock", "condition": "New", "price": 1999.00, "quantity": 4, "salesPerson": "Isabelle Durand", "dateAdded": "2025-10-02" },
+
+  { "id": 26, "name": "Elektron Digitakt", "category": "Drum Machine", "brand": "Elektron", "status": "In Stock", "condition": "New", "price": 699.99, "quantity": 5, "salesPerson": "Lars Fischer", "dateAdded": "2025-10-03" },
+  { "id": 27, "name": "Akai Force", "category": "MIDI Controller", "brand": "Akai", "status": "In Stock", "condition": "New", "price": 1299.00, "quantity": 3, "salesPerson": "Anya Volkov", "dateAdded": "2025-09-30" },
+  { "id": 28, "name": "Roland JU-06A", "category": "Synthesizer", "brand": "Roland", "status": "In Stock", "condition": "Used", "price": 299.00, "quantity": 4, "salesPerson": "Claude Lefevre", "dateAdded": "2025-09-29" },
+  { "id": 29, "name": "Korg Monologue", "category": "Synthesizer", "brand": "Korg", "status": "In Stock", "condition": "New", "price": 299.00, "quantity": 10, "salesPerson": "Romain Martin", "dateAdded": "2025-10-05" },
+  { "id": 30, "name": "Behringer Model D", "category": "Synthesizer", "brand": "Behringer", "status": "In Stock", "condition": "New", "price": 279.99, "quantity": 7, "salesPerson": "Greta Schmidt", "dateAdded": "2025-10-01" },
+  { "id": 31, "name": "Arturia MiniLab 88", "category": "MIDI Controller", "brand": "Arturia", "status": "In Stock", "condition": "New", "price": 449.00, "quantity": 6, "salesPerson": "Yana Petrov", "dateAdded": "2025-10-04" },
+  { "id": 32, "name": "Boss Katana 100", "category": "Amp", "brand": "Boss", "status": "In Stock", "condition": "New", "price": 299.99, "quantity": 5, "salesPerson": "Marc Dubois", "dateAdded": "2025-10-07" },
+  { "id": 33, "name": "Moog DFAM", "category": "Synthesizer", "brand": "Moog", "status": "In Stock", "condition": "Used", "price": 449.00, "quantity": 3, "salesPerson": "Alexei Sokolov", "dateAdded": "2025-09-28" },
+  { "id": 34, "name": "Nord Electro 6D", "category": "Keyboard", "brand": "Nord", "status": "Low Stock", "condition": "New", "price": 2499.00, "quantity": 2, "salesPerson": "Julien Morel", "dateAdded": "2025-09-27" },
+  { "id": 35, "name": "Strymon Mobius", "category": "Guitar Pedal", "brand": "Strymon", "status": "In Stock", "condition": "New", "price": 479.00, "quantity": 6, "salesPerson": "Frederic Laurent", "dateAdded": "2025-10-08" },
+  { "id": 36, "name": "Roland FA-06", "category": "Keyboard Workstation", "brand": "Roland", "status": "In Stock", "condition": "New", "price": 999.99, "quantity": 3, "salesPerson": "Clara Muller", "dateAdded": "2025-10-02" },
+  { "id": 37, "name": "Akai APC Key 25", "category": "MIDI Controller", "brand": "Akai", "status": "In Stock", "condition": "Used", "price": 149.99, "quantity": 4, "salesPerson": "Svetlana Ivanova", "dateAdded": "2025-09-30" },
+  { "id": 38, "name": "Korg Volca Keys", "category": "Synthesizer", "brand": "Korg", "status": "In Stock", "condition": "New", "price": 149.00, "quantity": 12, "salesPerson": "Henrik Bauer", "dateAdded": "2025-10-06" },
+  { "id": 39, "name": "Moog Sub Phatty", "category": "Synthesizer", "brand": "Moog", "status": "In Stock", "condition": "New", "price": 1199.00, "quantity": 4, "salesPerson": "Elena Volkova", "dateAdded": "2025-10-01" },
+  { "id": 40, "name": "Boss TU-3 Chromatic Tuner", "category": "Guitar Pedal", "brand": "Boss", "status": "In Stock", "condition": "New", "price": 79.99, "quantity": 10, "salesPerson": "Olivier Blanc", "dateAdded": "2025-10-09" },
+  { "id": 41, "name": "Arturia DrumBrute Impact", "category": "Drum Machine", "brand": "Arturia", "status": "In Stock", "condition": "New", "price": 349.00, "quantity": 5, "salesPerson": "Nadia Petrova", "dateAdded": "2025-10-03" },
+  { "id": 42, "name": "Novation Circuit", "category": "MIDI Controller", "brand": "Novation", "status": "In Stock", "condition": "Used", "price": 249.00, "quantity": 3, "salesPerson": "Fabrice Durand", "dateAdded": "2025-09-29" },
+  { "id": 43, "name": "Roland RD-88", "category": "Keyboard", "brand": "Roland", "status": "In Stock", "condition": "New", "price": 1199.99, "quantity": 4, "salesPerson": "Jean-Luc Martin", "dateAdded": "2025-10-05" },
+  { "id": 44, "name": "Behringer RD-9", "category": "Drum Machine", "brand": "Behringer", "status": "In Stock", "condition": "New", "price": 249.99, "quantity": 6, "salesPerson": "Greta Schmidt", "dateAdded": "2025-10-07" },
+  { "id": 45, "name": "Nord Piano 4", "category": "Keyboard", "brand": "Nord", "status": "In Stock", "condition": "New", "price": 3299.00, "quantity": 3, "salesPerson": "Julien Morel", "dateAdded": "2025-09-28" },
+  { "id": 46, "name": "Strymon Flint", "category": "Guitar Pedal", "brand": "Strymon", "status": "In Stock", "condition": "Used", "price": 299.00, "quantity": 3, "salesPerson": "Thierry Blanc", "dateAdded": "2025-09-30" },
+  { "id": 47, "name": "Yamaha MODX 8", "category": "Keyboard Workstation", "brand": "Yamaha", "status": "In Stock", "condition": "New", "price": 2299.00, "quantity": 4, "salesPerson": "Anika Müller", "dateAdded": "2025-10-02" },
+  { "id": 48, "name": "Akai MPD226", "category": "MIDI Controller", "brand": "Akai", "status": "In Stock", "condition": "New", "price": 179.99, "quantity": 8, "salesPerson": "Ivan Petrov", "dateAdded": "2025-10-04" },
+  { "id": 49, "name": "Moog Little Phatty", "category": "Synthesizer", "brand": "Moog", "status": "In Stock", "condition": "Used", "price": 999.00, "quantity": 2, "salesPerson": "Yuri Kozlov", "dateAdded": "2025-09-29" },
+  { "id": 50, "name": "Boss SD-1 Super OverDrive", "category": "Guitar Pedal", "brand": "Boss", "status": "In Stock", "condition": "New", "price": 49.99, "quantity": 12, "salesPerson": "Marie Dubois", "dateAdded": "2025-10-05" },
+  { "id": 51, "name": "Roland GO:KEYS 61", "category": "Keyboard", "brand": "Roland", "status": "In Stock", "condition": "New", "price": 499.99, "quantity": 6, "salesPerson": "Claude Lefevre", "dateAdded": "2025-10-07" },
+  { "id": 52, "name": "Korg microKORG", "category": "Synthesizer", "brand": "Korg", "status": "In Stock", "condition": "Used", "price": 349.00, "quantity": 4, "salesPerson": "Romain Martin", "dateAdded": "2025-09-30" },
+  { "id": 53, "name": "Arturia MiniBrute 2", "category": "Synthesizer", "brand": "Arturia", "status": "In Stock", "condition": "New", "price": 499.00, "quantity": 5, "salesPerson": "Jean-Pierre Laurent", "dateAdded": "2025-10-06" },
+  { "id": 54, "name": "Novation Launchkey 49", "category": "MIDI Controller", "brand": "Novation", "status": "In Stock", "condition": "New", "price": 199.99, "quantity": 10, "salesPerson": "Dieter Schneider", "dateAdded": "2025-10-03" },
+  { "id": 55, "name": "Yamaha P-125", "category": "Digital Piano", "brand": "Yamaha", "status": "In Stock", "condition": "New", "price": 649.99, "quantity": 5, "salesPerson": "Gustav Bauer", "dateAdded": "2025-10-02" },
+  { "id": 56, "name": "Moog Mother-32", "category": "Synthesizer", "brand": "Moog", "status": "In Stock", "condition": "Used", "price": 599.00, "quantity": 3, "salesPerson": "Alexei Sokolov", "dateAdded": "2025-09-28" },
+  { "id": 57, "name": "Boss RV-6 Reverb", "category": "Guitar Pedal", "brand": "Boss", "status": "In Stock", "condition": "New", "price": 149.99, "quantity": 8, "salesPerson": "Haile Gebre", "dateAdded": "2025-10-01" },
+  { "id": 58, "name": "Nord Wave 2", "category": "Synthesizer", "brand": "Nord", "status": "In Stock", "condition": "New", "price": 2199.00, "quantity": 3, "salesPerson": "Julien Morel", "dateAdded": "2025-10-04" },
+  { "id": 59, "name": "Roland FP-90X", "category": "Digital Piano", "brand": "Roland", "status": "In Stock", "condition": "New", "price": 1899.99, "quantity": 4, "salesPerson": "Clara Muller", "dateAdded": "2025-10-06" },
+  { "id": 60, "name": "Elektron Analog Four MKII", "category": "Synthesizer", "brand": "Elektron", "status": "In Stock", "condition": "Used", "price": 1199.00, "quantity": 2, "salesPerson": "Lars Fischer", "dateAdded": "2025-09-29" },
+  { "id": 61, "name": "Arturia BeatStep Pro", "category": "MIDI Controller", "brand": "Arturia", "status": "In Stock", "condition": "New", "price": 179.00, "quantity": 6, "salesPerson": "Nadia Petrova", "dateAdded": "2025-10-02" },
+  { "id": 62, "name": "Boss NS-2 Noise Suppressor", "category": "Guitar Pedal", "brand": "Boss", "status": "In Stock", "condition": "New", "price": 99.99, "quantity": 7, "salesPerson": "Marie-Claire Petit", "dateAdded": "2025-10-05" },
+  { "id": 63, "name": "Korg ARP Odyssey", "category": "Synthesizer", "brand": "Korg", "status": "In Stock", "condition": "Used", "price": 699.00, "quantity": 2, "salesPerson": "Henrik Bauer", "dateAdded": "2025-09-28" },
+  { "id": 64, "name": "Roland VT-4 Voice Transformer", "category": "Vocal Processor", "brand": "Roland", "status": "In Stock", "condition": "New", "price": 249.99, "quantity": 5, "salesPerson": "Olivier Martin", "dateAdded": "2025-10-03" },
+  { "id": 65, "name": "Yamaha MX88", "category": "Keyboard Workstation", "brand": "Yamaha", "status": "In Stock", "condition": "New", "price": 1199.99, "quantity": 4, "salesPerson": "Anika Müller", "dateAdded": "2025-10-07" },
+  { "id": 66, "name": "Moog Voyager", "category": "Synthesizer", "brand": "Moog", "status": "In Stock", "condition": "Used", "price": 3499.00, "quantity": 1, "salesPerson": "Ivan Petrov", "dateAdded": "2025-09-25" },
+  { "id": 67, "name": "Boss CE-2W Chorus", "category": "Guitar Pedal", "brand": "Boss", "status": "In Stock", "condition": "New", "price": 149.99, "quantity": 8, "salesPerson": "Jean-Luc Moreau", "dateAdded": "2025-10-06" },
+  { "id": 68, "name": "Novation Peak", "category": "Synthesizer", "brand": "Novation", "status": "In Stock", "condition": "New", "price": 1499.00, "quantity": 3, "salesPerson": "Fabrice Durand", "dateAdded": "2025-10-01" },
+  { "id": 69, "name": "Akai MPK249", "category": "MIDI Controller", "brand": "Akai", "status": "In Stock", "condition": "New", "price": 399.99, "quantity": 5, "salesPerson": "Dieter Schneider", "dateAdded": "2025-10-04" },
+  { "id": 70, "name": "Elektron Analog Rytm MKII", "category": "Drum Machine", "brand": "Elektron", "status": "In Stock", "condition": "Used", "price": 1299.00, "quantity": 2, "salesPerson": "Lars Fischer", "dateAdded": "2025-09-27" }
 ]
+
+
+
