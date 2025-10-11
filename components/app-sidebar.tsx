@@ -45,18 +45,18 @@ const data = {
       url: "#",
       icon: IconDashboard,
     },
-    {
-      title: "Lifecycle",
-      url: "#",
-      icon: IconListDetails,
-    },
+    // {
+    //   title: "Lifecycle",
+    //   url: "#",
+    //   icon: IconListDetails,
+    // },
     {
       title: "Analytics",
       url: "#",
       icon: IconChartBar,
     },
     {
-      title: "Projects",
+      title: "Orders",
       url: "#",
       icon: IconFolder,
     },
@@ -172,9 +172,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         <NavMain items={data.navMain} />
         <NavSecondary items={data.navSecondary} className="mt-auto" />
       </SidebarContent>
-      <SidebarFooter>
-        <NavUser user={data.user} />
-      </SidebarFooter>
+      
     </Sidebar>
   )
 }
