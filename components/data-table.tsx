@@ -255,16 +255,16 @@ const chartData = [
   { month: "June", desktop: 214, mobile: 140 },
 ]
 
-const chartConfig = {
-  desktop: {
-    label: "Desktop",
-    color: "var(--primary)",
-  },
-  mobile: {
-    label: "Mobile",
-    color: "var(--primary)",
-  },
-} satisfies ChartConfig
+// const chartConfig = {
+//   desktop: {
+//     label: "Desktop",
+//     color: "var(--primary)",
+//   },
+//   mobile: {
+//     label: "Mobile",
+//     color: "var(--primary)",
+//   },
+// } satisfies ChartConfig
 
 // function TableCellViewer({ item }: { item: z.infer<typeof schema> }) {
 //   const isMobile = useIsMobile()
